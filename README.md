@@ -25,6 +25,7 @@ As always, this program was developed on a Mac although both Mac and Windows exe
 # Program Structure and Use
 
 The program is organized as follows:
+```
 .
 +-- cmd
 |   +-- concurrent
@@ -40,6 +41,7 @@ The program is organized as follows:
 +-- go.mod
 +-- go.sum
 +-- README.md
+```
 
 Command line execution of the program assumes you are in the appropriate directory (concurrent or serial).  The iterations can be run silently by executing the program:
 
